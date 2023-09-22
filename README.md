@@ -18,7 +18,7 @@ Hasil dari analisis ini akan memberikan wawasan berharga kepada **Divisi Pengemb
 
 ## **Pemahaman Tentang Data yang Digunakan**
 
-Dataset yang digunakan adalah: Airbnb Listings Bangkok.csv
+Dataset yang digunakan adalah: [Airbnb Listings Bangkok.csv](https://github.com/yanacunanda/airbnbdataanalysis/blob/main/Airbnb%20Listings%20Bangkok.csv)
 
 Dataset ini memuat beragam informasi terkait setiap properti yang terdaftar sebagai listing di Airbnb Bangkok. Dalam dataset ini terdapat 17 kolom yang mengandung berbagai informasi yang relevan.
 
@@ -82,7 +82,7 @@ Berikut adalah tahapan data cleaning yang akan dilakukan pada dataset ini:
     - Menambahkan kolom 'review'
 - Menampilkan dan menyimpan hasil data cleaning
 
-Data yang telah dibersihkan disimpan dalam file Airbnb-Clean-Fix.csv
+Data yang telah dibersihkan disimpan dalam file [Airbnb-Clean-Fix.csv](https://github.com/yanacunanda/airbnbdataanalysis/blob/main/Airbnb-Clean-Fix.csv)
 
 ## **Kesimpulan**
 Berdasarkan analisis yang telah dilakukan, diperoleh kesimpulan-kesimpulan berikut ini:
@@ -107,6 +107,4 @@ Berdasarkan analisis yang telah Anda lakukan, terdapat beberapa rekomendasi yang
 Rekomendasi di atas dapat membantu Airbnb meningkatkan pengalaman pengguna, meningkatkan jumlah pemesanan dan menjaga hubungan yang baik dengan host. Dengan perencanaan dan pelaksanaan yang tepat, Airbnb dapat memaksimalkan potensi pasar di kota ini.
 
 ## **Visualisasi Menggunakan Tableau**
-Hasil visualisasi pada tableau dapat dilihat pada link berikut ini:
-
-https://public.tableau.com/app/profile/yana.cunanda/viz/CapstoneModule2_16947528337320/HasilVisualisasi?publish=yes
+Untuk melihat hasil visualisasi pada tableau dapat [klik di sini](https://public.tableau.com/app/profile/yana.cunanda/viz/CapstoneModule2_16947528337320/HasilVisualisasi?publish=yes)
