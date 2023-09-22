@@ -16,3 +16,7 @@ Tujuan dari evaluasi ini adalah untuk mengidentifikasi aspek-aspek tertentu yang
 
 Hasil dari analisis ini akan memberikan wawasan berharga kepada **Divisi Pengembangan Produk Airbnb Bangkok** untuk membantu mereka mengambil keputusan yang lebih cerdas dan berfokus pada perbaikan layanan yang akan meningkatkan pengalaman bagi para tamu dan pemilik listing di Kota Bangkok
 
+## **Pemahaman Tentang Data yang Digunakan**
+- Dataset yang digunakan adalah: Airbnb Listings Bangkok.csv
+- Aspek-aspek dalam data:
+    Dataset ini memuat beragam informasi terkait setiap properti yang terdaftar sebagai listing di Airbnb Bangkok.
