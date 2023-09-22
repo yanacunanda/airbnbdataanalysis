@@ -93,7 +93,7 @@ Berdasarkan analisis yang telah dilakukan, diperoleh kesimpulan-kesimpulan berik
 5. Review juga berdampak pada tingkat ketersediaan listing.
 6. Terdapat 525 host yang memiliki lebih dari satu listing yang terdaftar dengan kondisi belum pernah mendapatkan ulasan pada listing-listing mereka. Hal ini sebaiknya menjadi perhatian serius bagi Airbnb.
 
-##**Rekomendasi**
+## **Rekomendasi**
 Berdasarkan analisis yang telah Anda lakukan, terdapat beberapa rekomendasi yang dapat diimplementasikan oleh Airbnb untuk meningkatkan kinerja dan pengalaman pengguna di Bangkok:
 
 1. **Segmentasi Pasar dan Penawaran Khusus:** Airbnb dapat mengambil keuntungan dari preferensi berbeda dalam jenis listing di berbagai kategori area. Misalnya, Airbnb dapat mengembangkan penawaran khusus untuk mempromosikan listing jenis entire home/apartment di Shopping Area, Entertainment Area, dan Resident Area. Ini dapat mencakup penawaran harga khusus, promosi, atau fitur tambahan yang relevan.
